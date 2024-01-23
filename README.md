@@ -34,4 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 # my-fakenews-app
+
+<a href="https://www.freepik.com/free-vector/flat-earth-globes-set_13153619.htm#query=globe&position=5&from_view=keyword&track=sph&uuid=166216fc-ac7d-4175-8c4c-9eba3250f326">Image by macrovector</a> on Freepik
